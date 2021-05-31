@@ -1,0 +1,12 @@
+package com.shs.nxstudy.no4_lambda.vo;
+
+import java.util.Optional;
+
+public class Car {
+
+    private Optional<Insurance> insurance;
+
+    public Optional<Insurance> getInsurance() {
+        return insurance;
+    }
+}
