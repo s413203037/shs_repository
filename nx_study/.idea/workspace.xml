@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5074bd07-c5de-4929-8a9a-5165b25172a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shs/nxstudy/no4_lambda/vo/ttt.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,14 +173,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="学习笔记" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="44" key="CommitChangelistDialog2" timestamp="1623737856048">
+    <state x="378" y="44" key="CommitChangelistDialog2" timestamp="1623738932376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="378" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623737856048" />
-    <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1623737497731">
+    <state x="378" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1623738932376" />
+    <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1623738892820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623737497731" />
+    <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623738892820" />
     <state width="1867" height="256" key="GridCell.Tab.0.bottom" timestamp="1623726434119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -204,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="279" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623728448783" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1623737871119">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1623738957077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623737871119" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623738957077" />
     <state x="719" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623726444705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
