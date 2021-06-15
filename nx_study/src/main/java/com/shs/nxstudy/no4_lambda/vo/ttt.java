@@ -8,4 +8,5 @@ package com.shs.nxstudy.no4_lambda.vo;
  * @author Blue_sky<br />
  */
 public class ttt {
+    private String aa = "12";
 }
