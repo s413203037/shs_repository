@@ -80,13 +80,14 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
-<<<<<<< HEAD
+
         <!-- Guava包 -->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>29.0-jre</version>
-=======
+        </dependency>
+
 
         <!--内置tomcat和SpringMVC-->
         <dependency>
@@ -98,7 +99,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
->>>>>>> 48681c650861558ceb022bd0dcc8479666f0f3b7
         </dependency>
     </dependencies>
 
